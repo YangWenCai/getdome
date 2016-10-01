@@ -1,2 +1,4 @@
 alert"qweqeqwewqe";
 alert"jkuhhjhgg";
+document.write"qweqeweqweqe";
+alert"ifyiyusdyusuugfuytuftyt";
